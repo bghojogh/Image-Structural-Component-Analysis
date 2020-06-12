@@ -1,0 +1,249 @@
+C:\Users\bghojogh\Anaconda3\python.exe C:/Users/bghojogh/Desktop/My_PhD/PhD_projects/SSIM_manifold/Codes/3_SSIM_manifold/3_improve_code/main.py
+==== Distortion type: contrast_strech
+---- image index: 1 out of 20 images
+------------ image created with MSE = 49.0 | desired MSE was 45.0
+---- image index: 2 out of 20 images
+------------ image created with MSE = 81.0 | desired MSE was 90.0
+---- image index: 3 out of 20 images
+------------ image created with MSE = 144.0 | desired MSE was 135.0
+---- image index: 4 out of 20 images
+------------ image created with MSE = 169.0 | desired MSE was 180.0
+---- image index: 5 out of 20 images
+------------ image created with MSE = 225.0 | desired MSE was 225.0
+---- image index: 6 out of 20 images
+------------ image created with MSE = 256.0 | desired MSE was 270.0
+---- image index: 7 out of 20 images
+------------ image created with MSE = 324.0 | desired MSE was 315.0
+---- image index: 8 out of 20 images
+------------ image created with MSE = 361.0 | desired MSE was 360.0
+---- image index: 9 out of 20 images
+------------ image created with MSE = 400.0 | desired MSE was 405.0
+---- image index: 10 out of 20 images
+------------ image created with MSE = 441.0 | desired MSE was 450.0
+---- image index: 11 out of 20 images
+------------ image created with MSE = 484.0 | desired MSE was 495.0
+---- image index: 12 out of 20 images
+------------ image created with MSE = 529.0 | desired MSE was 540.0
+---- image index: 13 out of 20 images
+------------ image created with MSE = 576.0 | desired MSE was 585.0
+---- image index: 14 out of 20 images
+------------ image created with MSE = 625.0 | desired MSE was 630.0
+---- image index: 15 out of 20 images
+------------ image created with MSE = 676.0 | desired MSE was 675.0
+---- image index: 16 out of 20 images
+------------ image created with MSE = 729.0 | desired MSE was 720.0
+---- image index: 17 out of 20 images
+------------ image created with MSE = 784.0 | desired MSE was 765.0
+---- image index: 18 out of 20 images
+------------ image created with MSE = 784.0 | desired MSE was 810.0
+---- image index: 19 out of 20 images
+------------ image created with MSE = 841.0 | desired MSE was 855.0
+---- image index: 20 out of 20 images
+------------ image created with MSE = 900.0 | desired MSE was 900.0
+==== Distortion type: gaussian_noise
+---- image index: 1 out of 20 images
+------------ image created with MSE = 45.01958224976683 | desired MSE was 45.0
+---- image index: 2 out of 20 images
+------------ image created with MSE = 90.04279653631166 | desired MSE was 90.0
+---- image index: 3 out of 20 images
+------------ image created with MSE = 135.0051916058793 | desired MSE was 135.0
+---- image index: 4 out of 20 images
+------------ image created with MSE = 180.02536619764095 | desired MSE was 180.0
+---- image index: 5 out of 20 images
+------------ image created with MSE = 224.90573485822839 | desired MSE was 225.0
+---- image index: 6 out of 20 images
+------------ image created with MSE = 269.88810010295254 | desired MSE was 270.0
+---- image index: 7 out of 20 images
+------------ image created with MSE = 314.8971654861023 | desired MSE was 315.0
+---- image index: 8 out of 20 images
+------------ image created with MSE = 358.91301742728916 | desired MSE was 360.0
+---- image index: 9 out of 20 images
+------------ image created with MSE = 404.9120716781777 | desired MSE was 405.0
+---- image index: 10 out of 20 images
+------------ image created with MSE = 449.8866601679651 | desired MSE was 450.0
+---- image index: 11 out of 20 images
+------------ image created with MSE = 494.7387470372964 | desired MSE was 495.0
+---- image index: 12 out of 20 images
+------------ image created with MSE = 541.3951212622113 | desired MSE was 540.0
+---- image index: 13 out of 20 images
+------------ image created with MSE = 584.5439058922027 | desired MSE was 585.0
+---- image index: 14 out of 20 images
+------------ image created with MSE = 629.7982772171765 | desired MSE was 630.0
+---- image index: 15 out of 20 images
+------------ image created with MSE = 675.2781918683721 | desired MSE was 675.0
+---- image index: 16 out of 20 images
+------------ image created with MSE = 720.1459264546004 | desired MSE was 720.0
+---- image index: 17 out of 20 images
+------------ image created with MSE = 765.369720015296 | desired MSE was 765.0
+---- image index: 18 out of 20 images
+------------ image created with MSE = 810.2816054191808 | desired MSE was 810.0
+---- image index: 19 out of 20 images
+------------ image created with MSE = 856.432620373358 | desired MSE was 855.0
+---- image index: 20 out of 20 images
+------------ image created with MSE = 899.2806304603573 | desired MSE was 900.0
+==== Distortion type: mean_shift
+---- image index: 1 out of 20 images
+------------ image created with MSE = 44.344749435151016 | desired MSE was 45.0
+---- image index: 2 out of 20 images
+------------ image created with MSE = 90.20219523579011 | desired MSE was 90.0
+---- image index: 3 out of 20 images
+------------ image created with MSE = 134.80690498794525 | desired MSE was 135.0
+---- image index: 4 out of 20 images
+------------ image created with MSE = 179.69538378263942 | desired MSE was 180.0
+---- image index: 5 out of 20 images
+------------ image created with MSE = 224.51676667622448 | desired MSE was 225.0
+---- image index: 6 out of 20 images
+------------ image created with MSE = 269.49517605253584 | desired MSE was 270.0
+---- image index: 7 out of 20 images
+------------ image created with MSE = 314.33271013499467 | desired MSE was 315.0
+---- image index: 8 out of 20 images
+------------ image created with MSE = 359.34459784086556 | desired MSE was 360.0
+---- image index: 9 out of 20 images
+------------ image created with MSE = 405.1845447095559 | desired MSE was 405.0
+---- image index: 10 out of 20 images
+------------ image created with MSE = 451.809501956667 | desired MSE was 450.0
+---- image index: 11 out of 20 images
+------------ image created with MSE = 495.1083074986087 | desired MSE was 495.0
+---- image index: 12 out of 20 images
+------------ image created with MSE = 540.2905585035098 | desired MSE was 540.0
+---- image index: 13 out of 20 images
+------------ image created with MSE = 585.3350482441672 | desired MSE was 585.0
+---- image index: 14 out of 20 images
+------------ image created with MSE = 630.9993354610893 | desired MSE was 630.0
+---- image index: 15 out of 20 images
+------------ image created with MSE = 674.3368827639367 | desired MSE was 675.0
+---- image index: 16 out of 20 images
+------------ image created with MSE = 721.6545838034355 | desired MSE was 720.0
+---- image index: 17 out of 20 images
+------------ image created with MSE = 765.9029959305939 | desired MSE was 765.0
+---- image index: 18 out of 20 images
+------------ image created with MSE = 810.1740692591625 | desired MSE was 810.0
+---- image index: 19 out of 20 images
+------------ image created with MSE = 854.1307159097743 | desired MSE was 855.0
+---- image index: 20 out of 20 images
+------------ image created with MSE = 900.4088124140495 | desired MSE was 900.0
+==== Distortion type: gaussian_blurring
+---- image index: 1 out of 20 images
+------------ image created with MSE = 45.09783806530273 | desired MSE was 45.0
+---- image index: 2 out of 20 images
+------------ image created with MSE = 90.14870849530152 | desired MSE was 90.0
+---- image index: 3 out of 20 images
+------------ image created with MSE = 134.84578328419988 | desired MSE was 135.0
+---- image index: 4 out of 20 images
+------------ image created with MSE = 180.01544518742566 | desired MSE was 180.0
+---- image index: 5 out of 20 images
+------------ image created with MSE = 225.06145685810722 | desired MSE was 225.0
+---- image index: 6 out of 20 images
+------------ image created with MSE = 269.52947609419493 | desired MSE was 270.0
+---- image index: 7 out of 20 images
+------------ image created with MSE = 314.8752161145942 | desired MSE was 315.0
+---- image index: 8 out of 20 images
+------------ image created with MSE = 359.98509153099894 | desired MSE was 360.0
+---- image index: 9 out of 20 images
+------------ image created with MSE = 405.0051796092274 | desired MSE was 405.0
+---- image index: 10 out of 20 images
+------------ image created with MSE = 450.167564606908 | desired MSE was 450.0
+---- image index: 11 out of 20 images
+------------ image created with MSE = 495.71464725925125 | desired MSE was 495.0
+---- image index: 12 out of 20 images
+------------ image created with MSE = 539.7365822717082 | desired MSE was 540.0
+---- image index: 13 out of 20 images
+------------ image created with MSE = 585.0136229054357 | desired MSE was 585.0
+---- image index: 14 out of 20 images
+------------ image created with MSE = 629.1711715835843 | desired MSE was 630.0
+---- image index: 15 out of 20 images
+------------ image created with MSE = 674.9890498432355 | desired MSE was 675.0
+---- image index: 16 out of 20 images
+------------ image created with MSE = 719.309849891179 | desired MSE was 720.0
+---- image index: 17 out of 20 images
+------------ image created with MSE = 763.9742250145533 | desired MSE was 765.0
+---- image index: 18 out of 20 images
+------------ image created with MSE = 810.0249632947803 | desired MSE was 810.0
+---- image index: 19 out of 20 images
+------------ image created with MSE = 855.3195662360923 | desired MSE was 855.0
+---- image index: 20 out of 20 images
+------------ image created with MSE = 899.991850562917 | desired MSE was 900.0
+==== Distortion type: salt_and_pepper
+---- image index: 1 out of 20 images
+------------ image created with MSE = 48.5672607421875 | desired MSE was 45.0
+---- image index: 2 out of 20 images
+------------ image created with MSE = 94.34917831420898 | desired MSE was 90.0
+---- image index: 3 out of 20 images
+------------ image created with MSE = 138.51801681518555 | desired MSE was 135.0
+---- image index: 4 out of 20 images
+------------ image created with MSE = 181.38592529296875 | desired MSE was 180.0
+---- image index: 5 out of 20 images
+------------ image created with MSE = 226.2737579345703 | desired MSE was 225.0
+---- image index: 6 out of 20 images
+------------ image created with MSE = 278.9817352294922 | desired MSE was 270.0
+---- image index: 7 out of 20 images
+------------ image created with MSE = 317.74359130859375 | desired MSE was 315.0
+---- image index: 8 out of 20 images
+------------ image created with MSE = 360.4273338317871 | desired MSE was 360.0
+---- image index: 9 out of 20 images
+------------ image created with MSE = 406.84448623657227 | desired MSE was 405.0
+---- image index: 10 out of 20 images
+------------ image created with MSE = 449.8163032531738 | desired MSE was 450.0
+---- image index: 11 out of 20 images
+------------ image created with MSE = 497.5423049926758 | desired MSE was 495.0
+---- image index: 12 out of 20 images
+------------ image created with MSE = 538.1067848205566 | desired MSE was 540.0
+---- image index: 13 out of 20 images
+------------ image created with MSE = 584.4521446228027 | desired MSE was 585.0
+---- image index: 14 out of 20 images
+------------ image created with MSE = 631.0616073608398 | desired MSE was 630.0
+---- image index: 15 out of 20 images
+------------ image created with MSE = 675.0843315124512 | desired MSE was 675.0
+---- image index: 16 out of 20 images
+------------ image created with MSE = 715.9539909362793 | desired MSE was 720.0
+---- image index: 17 out of 20 images
+------------ image created with MSE = 764.28759765625 | desired MSE was 765.0
+---- image index: 18 out of 20 images
+------------ image created with MSE = 817.1854095458984 | desired MSE was 810.0
+---- image index: 19 out of 20 images
+------------ image created with MSE = 860.3907928466797 | desired MSE was 855.0
+---- image index: 20 out of 20 images
+------------ image created with MSE = 907.3660011291504 | desired MSE was 900.0
+==== Distortion type: jpeg_distortion
+---- image index: 1 out of 20 images
+------------ image created with MSE = 50.7014274597168 | desired MSE was 45.0
+---- image index: 2 out of 20 images
+------------ image created with MSE = 91.16339492797852 | desired MSE was 90.0
+---- image index: 3 out of 20 images
+------------ image created with MSE = 130.11188507080078 | desired MSE was 135.0
+---- image index: 4 out of 20 images
+------------ image created with MSE = 178.3120460510254 | desired MSE was 180.0
+---- image index: 5 out of 20 images
+------------ image created with MSE = 232.1950225830078 | desired MSE was 225.0
+---- image index: 6 out of 20 images
+------------ image created with MSE = 266.4439277648926 | desired MSE was 270.0
+---- image index: 7 out of 20 images
+------------ image created with MSE = 301.04554748535156 | desired MSE was 315.0
+---- image index: 8 out of 20 images
+------------ image created with MSE = 372.559383392334 | desired MSE was 360.0
+---- image index: 9 out of 20 images
+------------ image created with MSE = 409.559383392334 | desired MSE was 405.0
+---- image index: 10 out of 20 images
+------------ image created with MSE = 456.67209243774414 | desired MSE was 450.0
+---- image index: 11 out of 20 images
+------------ image created with MSE = 497.67209243774414 | desired MSE was 495.0
+---- image index: 12 out of 20 images
+------------ image created with MSE = 545.6674041748047 | desired MSE was 540.0
+---- image index: 13 out of 20 images
+------------ image created with MSE = 590.6674041748047 | desired MSE was 585.0
+---- image index: 14 out of 20 images
+------------ image created with MSE = 637.6674041748047 | desired MSE was 630.0
+---- image index: 15 out of 20 images
+------------ image created with MSE = 701.932243347168 | desired MSE was 675.0
+---- image index: 16 out of 20 images
+------------ image created with MSE = 701.932243347168 | desired MSE was 720.0
+---- image index: 17 out of 20 images
+------------ image created with MSE = 754.2171974182129 | desired MSE was 765.0
+---- image index: 18 out of 20 images
+------------ image created with MSE = 807.2171974182129 | desired MSE was 810.0
+---- image index: 19 out of 20 images
+------------ image created with MSE = 862.2171974182129 | desired MSE was 855.0
+---- image index: 20 out of 20 images
+------------ image created with MSE = 862.2171974182129 | desired MSE was 900.0
+hi
+Process finished with exit code -1

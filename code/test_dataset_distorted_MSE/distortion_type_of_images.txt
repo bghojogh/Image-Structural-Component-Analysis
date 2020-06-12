@@ -1,0 +1,1 @@
+['contrast_strech', 'gaussian_noise', 'mean_shift', 'gaussian_blurring', 'salt_and_pepper', 'jpeg_distortion', 'gaussian_blurring + gaussian_noise', 'gaussian_blurring + mean_shift', 'salt_and_pepper + mean_shift', 'jpeg_distortion + gaussian_noise', 'jpeg_distortion + mean_shift', 'jpeg_distortion + contrast_strech']
